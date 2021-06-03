@@ -56,7 +56,7 @@ public class EncryptionProgram
 				break;
 				
 			default:
-				System.out.println("Not valid!");
+				System.out.println("Invalid!");
 				break;
 			}
 		 }
